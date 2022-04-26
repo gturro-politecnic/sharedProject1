@@ -8,9 +8,11 @@ public class Game {
      */
     public static void main(String[] args) {
     
-        public void run(){
+        /*
+        private static void run(){
            //Game engine goes here
         }
+        */
     }
 
 }
